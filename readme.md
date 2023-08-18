@@ -8,6 +8,8 @@
 git init
 git stautus
 git commit -a "first commit"
+git log
+
 
 ```
 

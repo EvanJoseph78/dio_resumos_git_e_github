@@ -13,4 +13,5 @@ git log
 
 ```
 
-
+- O .gitkeep é um arquivo usado como convenção para que seja possível inserir diretórios vazios
+Ednaldo pereira
